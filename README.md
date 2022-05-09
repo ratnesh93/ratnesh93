@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerearth.com/@ratnesh.chandak.1" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png" alt="ratnesh_chandak" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ratnesh.chandak.1" target="blank"><img align="center" src="https://static-fastly.hackerearth.com/static/hackerearth/images/badge/HE_badge_on_light.png" alt="ratnesh_chandak" height="60" width="80" /></a>
 <a href="https://twitter.com/ratnesh_chandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ratnesh_chandak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ratnesh-chandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ratnesh-chandak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/3618999/ratnesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/3618999/ratnesh" height="30" width="40" /></a>
