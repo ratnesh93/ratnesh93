@@ -53,12 +53,20 @@ Backend-focused engineer with deep experience in **Python** (Flask, Django) and 
 
 ---
 
-## Connect
+## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratnesh-chandak/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ratneshchandak)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3618999/ratnesh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratnesh.chandak@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/ratnesh-chandak/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="52" /></a>
+<a href="https://twitter.com/ChandakRatnesh" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="52" /></a>
+<a href="https://stackoverflow.com/users/3618999/ratnesh" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="52" /></a>
+<a href="https://medium.com/@ratneshchandak" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="52" /></a>
+</p>
+
+- **LinkedIn:** [linkedin.com/in/ratnesh-chandak](https://www.linkedin.com/in/ratnesh-chandak/)
+- **Twitter:** [@ChandakRatnesh](https://twitter.com/ChandakRatnesh)
+- **Stack Overflow:** [stackoverflow.com/users/3618999/ratnesh](https://stackoverflow.com/users/3618999/ratnesh)
+- **Medium:** [medium.com/@ratneshchandak](https://medium.com/@ratneshchandak)
+- **Email:** [ratnesh.chandak@gmail.com](mailto:ratnesh.chandak@gmail.com)
 
 ---
 
