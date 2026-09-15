@@ -19,7 +19,7 @@ Backend-focused engineer with deep experience in **Python** (Flask, Django) and 
 | Software Engineer III | [Orange Health Labs](https://www.orangehealth.in) | OCC tech, SKU search |
 | Senior Member of Technical Staff | [Axio](https://axio.co.in) (Amazon-backed fintech) | Flow Manager onboarding, JWS/JWE API security, partner integrations (~$72M/mo platform volume) |
 | Software Engineer | [FireCompass](https://firecompass.com) | Python microservices on GCP, Casbin RBAC, internal SDKs |
-| Sr. Technology Associate | Bank of America | Merrill Lynch bond trading (Java), trader query tooling |
+| Sr. Technology Associate | [Bank of America](https://business.bofa.com/in/en/about-us.html) | Merrill Lynch bond trading (Java), trader query tooling |
 
 **Education:** B.Tech CSE, [IIT Hyderabad](https://www.iith.ac.in) (2012–2016)
 
