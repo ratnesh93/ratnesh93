@@ -48,8 +48,10 @@ Backend-focused engineer with deep experience in **Python** (Flask, Django) and 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Amazon ElastiCache](https://img.shields.io/badge/Amazon_ElastiCache-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Also:** Celery, Gin, JWS/JWE, Casbin, New Relic, OpenSearch, SQS/SNS/KMS, SQL
+**Also:** Celery, Gin, JWS/JWE, Casbin, New Relic, OpenSearch, ElastiCache (Redis), SQS/SNS/KMS, SQL
 
 ---
 
